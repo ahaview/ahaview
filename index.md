@@ -1,5 +1,8 @@
 # 啊哈，视野！
 
+![image](https://user-images.githubusercontent.com/101438005/158286102-74d2eb64-95e0-4ff5-a29d-91587edc817e.png)
+> 井底蛙，灯下黑...
+
 ![image](https://user-images.githubusercontent.com/101438005/157999557-4e16ad80-4dc3-41f9-8db6-9c5681f7a1c5.png)
 ![image](https://user-images.githubusercontent.com/101438005/157999629-ef37b6ed-ee43-4f27-b069-303b55a89f2d.png)
 > 三个臭皮匠顶个诸葛亮
